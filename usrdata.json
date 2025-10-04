@@ -12,9 +12,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "f9c78e7e6cb7316b",
-        "key": "MAXO",
-        "expirydate": "15-12-2026",
+        "device_id": "f9c78e7e6cb7316b"
+        "key": "MAXO"
+        "expirydate": "15-12-2026"
         "Allowoffline": false
-    }
+    },
 ]
