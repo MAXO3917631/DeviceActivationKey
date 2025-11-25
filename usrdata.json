@@ -11,4 +11,10 @@
         "expirydate": "26-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "bb7ba1a87def05a2",
+        "key": "paya",
+        "expirydate": "15-06-3000",
+        "Allowoffline": false
+    }
 ]
