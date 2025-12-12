@@ -5,28 +5,4 @@
         "expirydate": "31-12-3000",
         "Allowoffline": true
     },
-    {
-        "device_id": "0cec755b8d87162f",
-        "key": "sorsor12",
-        "expirydate": "28-11-3000",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "bb7ba1a87def05a2",
-        "key": "poya",
-        "expirydate": "15-06-3000",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "d44842e196d46a94",
-        "key": "Hossein",
-        "expirydate": "15-06-3000",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "0fdce0e837030d53",
-        "key": "M_atin2768",
-        "expirydate": "8-12-2025",
-        "Allowoffline": false
-    },
 ]
