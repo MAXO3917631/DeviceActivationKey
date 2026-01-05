@@ -16,5 +16,11 @@
         "key": "MMM",
         "expirydate": "09-01-2026",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "3624ffb5d56ef57b",
+        "key": "Hosssin",
+        "expirydate": "07-01-9999",
+        "Allowoffline": false
+    },
 ]
