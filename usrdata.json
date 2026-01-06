@@ -23,4 +23,10 @@
         "expirydate": "07-01-9999",
         "Allowoffline": false
     },
+    {
+        "device_id": "07f82ffee8bede50",
+        "key": "sahand",
+        "expirydate": "08-01-2026",
+        "Allowoffline": false
+    },
 ]
